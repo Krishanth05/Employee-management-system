@@ -14,6 +14,11 @@ The Employee Attendance Tracker is a straightforward solution designed to make e
 
 - **Automatic Date Recording**: The system automatically records the date of attendance, making it easy to categorize working days and create comprehensive attendance reports.
 
+Installation
+To use this project, you need to install the openpyxl library. You can do this via pip with the following command:
+pip install openpyxl
+
+
 Usage
 As the administrator (root user), input essential employee details including his password into the system.
 
@@ -22,6 +27,7 @@ The system will automatically generate unique IDs for each employee.
 Employees can use their unique IDs and provided password to log attendance effortlessly.
 
 The system will automatically record the date of attendance.
+
 
 Acknowledgments
 Inspired by AWS IAM Services.
